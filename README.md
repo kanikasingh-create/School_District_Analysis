@@ -6,10 +6,11 @@ This analysis reevaluates standardized test data from a city school district aft
 ![MyImage](Average_Scores.png)![MyImage](Average_Scores_Challenge.png)
 
 * For Thomas High School, 431 less students pass math, and 452 less students pass reading on the standardized tests by virtue of replacing the ninth graders' scores.
-* Reading
-![MyImage](Passing_Reading.png)![MyImage](Passing_Reading_Challenge.png)
-* Math
-![MyImage](Passing_Math.png)![MyImage](Passing_Math_Challenge.png)
+  * Reading
+  ![MyImage](Passing_Reading.png)![MyImage](Passing_Reading_Challenge.png)
+
+  * Math
+  ![MyImage](Passing_Math.png)![MyImage](Passing_Math_Challenge.png)
 
 * Overall passing falls dramatically from 90.94% of Thomas High School students passing to 65.07%.
 ![MyImage](Per_overall_passing.png)![MyImage](Per_overall_passing_Challenge.png)
