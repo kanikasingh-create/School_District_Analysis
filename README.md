@@ -3,7 +3,7 @@ This analysis reevaluates standardized test data from a city school district aft
 
 ## Recreating and evaluating district and school summary dataframes:
 * While average math and reading scores only decrease by small amounts (0.05% and 0.02%, respectively), the percentage of students passing each subject decreases by roughly 1% each. 
-![MyImage](Average_Scores.png)![MyImage](Average_Score_Challenge.png)
+![MyImage](Average_Scores.png)![MyImage](Average_Scores_Challenge.png)
 
 * For Thomas High School, 431 less students pass math, and 452 less students pass reading on the standardized tests by virtue of replacing the ninth graders' scores.
 ![MyImage](Passing_Reading.png)![MyImage](Passing_Reading_Challenge.png)
