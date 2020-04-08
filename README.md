@@ -20,9 +20,10 @@ This analysis reevaluates standardized test data from a city school district aft
 ## Recalculating impact on scores based on:
 a) Grade – There are no changes in the data, except for replaced data for Thomas High School for 9th graders. Other than that column displaying 'NaN', there are no changes.
 
-b) School Spending – By replacing the scores of the 9th graders, school spending is affected. We see a noticable shift in spending range per student that passes overall in the $630-644 range, which is the spending per student range that Thomas High School falls under.
+b) School Spending – By replacing the scores of the 9th graders, we can see a change in the relationship between spending range per student and scores. We can observe that the percentage of students that pass math and reading overall decreases for the $630-644 spending category, which is the spending category under which Thomas High School falls. This decrease is explained by the fact that altering the data has decreased the number of students that pass reading and math attending 9th grade at Thomas High School (as explained above).
 ![MyImage](SpendingvScores.png)![MyImage](SpendingvScores_Challenge.png)
 
-c) School Size –
+c) School Size – There is a change in the percentage of students who are passing overall in medium-sized schools as a result of removing the 9th graders' scores. Again, this is explained by the fact that Thomas High School is categorized as a medium-sized school: altering the data of the 9th graders causes the overall passing percentage to drop, hence changing the relationship between school-size and scores.
+
 
 d) School Type –
