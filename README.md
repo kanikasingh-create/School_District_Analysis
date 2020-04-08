@@ -15,7 +15,7 @@ This analysis reevaluates standardized test data from a city school district aft
 ## Recalculating high and low performing schools:
 * Replacing the ninth graders' math and reading scores removes Thomas High School from the list of top 5 high schools in the city district, however it does not cause the school to be considered among the lowest scoring schools.
 ![MyImage](Top5.png)
-![MyImage](Bottom 5.png)
+![MyImage](Bottom5.png)
 
 ## Recalculating impact on scores based on:
 a) Grade – There are no changes in the data, except for replaced data for Thomas High School for 9th graders. Other than that column displaying 'NaN', there are no changes.
