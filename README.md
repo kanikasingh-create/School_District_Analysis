@@ -21,7 +21,7 @@ This analysis reevaluates standardized test data from a city school district aft
 a) Grade – There are no changes in the data, except for replaced data for Thomas High School for 9th graders. Other than that column displaying 'NaN', there are no changes.
 
 b) School Spending – By replacing the scores of the 9th graders, school spending is affected. We see a noticable shift in spending range per student that passes overall in the $630-644 range, which is the spending per student range that Thomas High School falls under.
-![MyImage](ScoresvSpending.png)![MyImage](ScoresvSpending_Challenge.png)
+![MyImage](SpendingvScores.png)![MyImage](SpendingvScores_Challenge.png)
 
 c) School Size –
 
