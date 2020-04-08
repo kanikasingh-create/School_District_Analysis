@@ -14,12 +14,14 @@ This analysis reevaluates standardized test data from a city school district aft
 
 ## Recalculating high and low performing schools:
 * Replacing the ninth graders' math and reading scores removes Thomas High School from the list of top 5 high schools in the city district, however it does not cause the school to be considered among the lowest scoring schools.
-![MyImage](Top5.png) ![MyImage](Bottom 5.png)
+![MyImage](Top5.png)
+![MyImage](Bottom 5.png)
 
 ## Recalculating impact on scores based on:
-a) Grade –
+a) Grade – There are no changes in the data, except for replaced data for Thomas High School for 9th graders. Other than that column displaying 'NaN', there are no changes.
 
-b) School Spending –
+b) School Spending – By replacing the scores of the 9th graders, school spending is affected. We see a noticable shift in spending range per student that passes overall in the $630-644 range, which is the spending per student range that Thomas High School falls under.
+![MyImage](ScoresvSpending.png)![MyImage](ScoresvSpending_Challenge.png)
 
 c) School Size –
 
