@@ -13,6 +13,9 @@
 
 ## Recalculating impact on scores based on:
 a) Grade –
+
 b) School Spending –
+
 c) School Size –
-### d) School Type –
+
+d) School Type –
