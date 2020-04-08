@@ -24,6 +24,7 @@ b) School Spending – By replacing the scores of the 9th graders, we can see a 
 ![MyImage](SpendingvScores.png)![MyImage](SpendingvScores_Challenge.png)
 
 c) School Size – There is a change in the percentage of students who are passing overall in medium-sized schools as a result of removing the 9th graders' scores. Again, this is explained by the fact that Thomas High School is categorized as a medium-sized school: altering the data of the 9th graders causes the overall passing percentage to drop, hence changing the relationship between school-size and scores.
+![MyImage](SizevScore.png)![MyImage](SizevScore_Challenge.png)
 
-
-d) School Type –
+d) School Type – Again, as seen above, there is a change in the percentage of students passing overall when compared with the type of school. Thomas High School is a charter school, and as shown in the data, the percentage of students who pass overall changes for charter schools when altering the data of 9th grade test scores at Thomas High School.
+![MyImage](TypevScore.png)![MyImage](TypevScore_Challenge.png)
